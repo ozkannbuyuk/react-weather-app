@@ -23,6 +23,9 @@ I developed a simple weather application with React.
 
 <br />
 
+.env
+- `REACT_APP_WEATHER_API_KEY=`
+
 Install
 
 To install the project, navigate to the directory and run:
