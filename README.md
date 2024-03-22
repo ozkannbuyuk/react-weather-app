@@ -2,6 +2,10 @@
    React - Weather App
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-weather-app/assets/111967202/428b1ec6-4aac-4fae-b008-84b8b4331c36" width="700" />
 </p>
